@@ -1,0 +1,31 @@
+<html>
+<head>
+<title> Contacts </title>
+</head>
+<body>
+<center>
+<body background="wallpaper2you_410831.jpg">
+<img src="Untitled.jpg">
+<br>
+<br>
+<br>
+<a href="https://www.facebook.com/margaux.p.alonzo.7">
+<img src="Facebook-icon-1.png" alt="Subscribe" height="100" width="100">
+</a>
+<br>
+<font color="yellow">
+<b>
+CLICK ME!
+
+<br>
+<br>
+<br>
+<font color="yellow">
+<b>
+<marquee>
+PLEASE F0LLOW ME ON MY FACEBOOK ACCOUNT! THANKS! ^__^
+</marquee>
+
+<a href="index.html"></a>
+</body>
+</html>
